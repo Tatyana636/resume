@@ -1,5 +1,4 @@
-![Изображение][1]
-[1]: https://github.com/Tatyana636/resume/assets/snapedit_1746543781343.jpeg  "Имя"
+![Имя] (https://github.com/Tatyana636/resume/assets/snapedit_1746543781343.jpeg)
 
 # Обо мне
 =
@@ -12,6 +11,5 @@
 # Инструменты
 ![JIRA](https://img.shields.io/jira/issue/:-Jira-?style=for-the-badge&logoColor=000000&labelColor=e9af27)
 ![Android Studio](https://img.shields.io/aur/license/:Android-Studio?style=for-the-badge&logoColor=000000&labelColor=e9af27)
-![DevTools](https://img.shields.io/cran/l/:-DevTools-)
-?style=for-the-badge&logoColor=000000&labelColor=e9af27)
+![DevTools](https://img.shields.io/cran/l/:-DevTools-?style=for-the-badge&logoColor=000000&labelColor=e9af27)
 
