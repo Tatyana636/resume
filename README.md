@@ -1,5 +1,4 @@
-![Изображение][1]
-[1]: https://github.com/Tatyana636/resume/assets/snapedit_1746543781343.jpeg  "Имя"
+<img src="https://raw.githubusercontent.com/Tatyana636/resume/refs/heads/main/assets/snapedit_1746543781343.jpeg" alt="Имя"/>
 
 # Обо мне
 
@@ -16,15 +15,15 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=.devtools&logoColor=E5D3FF)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=charles)
 
 # Примеры тестовой документакции
 
-- [Тест-кейсы](https://github.com/Tatyana636/Test-cases)
-- [Чек-листы](https://github.com/Tatyana636/Check-list)
-- [Баг-репорты](https://github.com/Tatyana636/bug-report)
-- [Тест-план](../../test-plan)
+- [Тест-кейсы](../../test_cases)
+- [Чек-листы](../../checklist)
+- [Баг-репорты](../../bug_report)
+- [Тест-план](../../test_plan)
 
-<br>
 <br>
 
 [![codewars](https://www.codewars.com/users/TatyanaAstashkina/badges/large)](https://www.codewars.com/users/TatyanaAstashkina)  
