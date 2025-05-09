@@ -24,4 +24,7 @@
 - [Баг-репорты](https://github.com/Tatyana636/bug-report)
 - [Тест-план](../../test-plan)
 
+<br>
+<br>
 
+[![codewars](https://www.codewars.com/users/TatyanaAstashkina/badges/large)](https://www.codewars.com/users/TatyanaAstashkina)  
