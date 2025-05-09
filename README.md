@@ -25,6 +25,5 @@
 - [Тест-план](../../test_plan)
 
 <br>
-<br>
 
 [![codewars](https://www.codewars.com/users/TatyanaAstashkina/badges/large)](https://www.codewars.com/users/TatyanaAstashkina)  
