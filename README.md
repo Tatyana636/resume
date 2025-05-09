@@ -19,10 +19,10 @@
 
 # Примеры тестовой документакции
 
-- [Тест-кейсы](../../test_cases)
-- [Чек-листы](../../checklist)
-- [Баг-репорты](../../bug_report)
-- [Тест-план](../../test_plan)
+- [Тест-кейсы](../../blob/main/test_artifacts/test_cases.md)
+- [Чек-листы](../../blob/main/test_artifacts/checklist.md)
+- [Баг-репорты](../../blob/main/test_artifacts/bug_report.md)
+- [Тест-план](../../blob/main/test_artifacts/test_plan.md)
 
 <br>
 
