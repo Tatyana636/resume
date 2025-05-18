@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=charles)
 
-# Примеры тестовой документакции
+# Примеры тестовой документации
 
 - [Тест-кейсы](../../blob/main/test_artifacts/test_cases.md)
 - [Чек-листы](../../blob/main/test_artifacts/checklist.md)
